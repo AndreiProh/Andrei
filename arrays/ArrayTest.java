@@ -1,11 +1,4 @@
-package arrays;
 
-import net.mindview.util.*;
-
-import java.math.BigDecimal;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.Random;
 
 public class ArrayTest {
     public static BerylliumSphere[] makeArray(int i) {
