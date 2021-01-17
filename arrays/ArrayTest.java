@@ -1,13 +1,5 @@
 
 
-public class ArrayTest {
-    public static BerylliumSphere[] makeArray(int i) {
-        BerylliumSphere[] b = new BerylliumSphere[i];
-        for (int x = 0; x < i; x++) {
-            b[x] = new BerylliumSphere();
-        }
-        return b;
-    }
     public static double[][] makeDoubleArray(int sizeA, int sizeB, double low, double high) {
         double[][] x = new double[sizeA][sizeB];
         Random rand = new Random();
