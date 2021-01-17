@@ -1,7 +1,6 @@
 package containers;
 import net.mindview.util.TextFile;
 
-import java.util.Arrays;
 
 import static net.mindview.util.Print.*;
 
